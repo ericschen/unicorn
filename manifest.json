@@ -8,13 +8,13 @@
   },
   "browser_action" :
   {
-    "default_icon" : "video-19.png",
-    "default_popup" : "popup.html"
+    "default_icon" : "youbz.png",
+    "default_popup" : "downmenu.html"
   },
   "permissions": [ "declarativeContent" ],
   "icons" : {
-    "48" : "video-48.png",
-    "128" : "video-128.png"
+    "48" : "youbz.png",
+    "128" : "youbz.png"
   },
   "manifest_version": 2
 }
